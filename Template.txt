@@ -1,0 +1,7 @@
+quotation_web_app/
+├── app.py
+├── templates/
+│   └── form.html
+├── static/
+│   └── (optional: styles.css, JS, logo)
+├── quotation_template.docx
